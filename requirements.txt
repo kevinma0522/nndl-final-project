@@ -1,0 +1,12 @@
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=0.24.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+shap>=0.41.0
+xarray>=0.20.0
+netCDF4>=1.5.0
+tqdm>=4.62.0
+pytorch-lightning>=2.0.0 
