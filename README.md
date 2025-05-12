@@ -70,18 +70,3 @@ These methods are used to analyze feature importance and model predictions for p
 
 The best performing model achieves an F1-score of 0.865 using cross-entropy loss and the first set of input variables (cloud liquid mixing ratio, surface pressure, and specific humidity).
 
-## Citation
-
-If you use this code in your research, please cite:
-```
-@article{chen2023transparent,
-  title={Towards Transparent Climate Forecasting: SHAP-Driven Interpretability for Climate Prediction Neural Networks},
-  author={Chen, Thomas Y. and Ma, Kevin},
-  journal={arXiv preprint},
-  year={2023}
-}
-```
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
